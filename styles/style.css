@@ -89,6 +89,7 @@ section.image {
 }
 
 footer > p {
+    font-family: var(--fonte1);
     font-size: 2vw;
     padding-top: 5px;
     padding-bottom: 5px;
